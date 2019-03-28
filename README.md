@@ -1,1 +1,1 @@
-# TerraGen.github.io
+# WebGL-TerrainGenerator
